@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "build/static/js/contentScript.jsx", "public/contentScript.js"  ]
 }
